@@ -86,4 +86,9 @@ public class PlayerController : MonoBehaviour
             Debug.Log("Game Finished");
         }
     }
+
+    private void asddasdasdas ()
+    {
+
+    }
 }
