@@ -71,7 +71,7 @@ public class PlayerController : MonoBehaviour
         {
             scoreCalculator.isLevelFailed = true;
             Destroy(gameObject);
-            Debug.Log("Game over");
+            Debug.Log("Game over !");
         } 
         else if (other.CompareTag("Coin"))
         {
